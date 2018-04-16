@@ -99,6 +99,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Developer Evangelism, Docker
 - Location - Bay Area / San Francisco
 
+#### Sarah Cooley
+
+- [@VirtualScooley](https://twitter.com/VirtualScooley)
+- [scooley.io](https://scooley.io)
+- Topics - virtualization, Hyper-V, Windows Subsystem for Linux, containers
+- Location - Seattle, WA, USA
+
 #### Frances Coronel
 
 - [@fvcproductions](http://twitter.com/fvcproductions)
